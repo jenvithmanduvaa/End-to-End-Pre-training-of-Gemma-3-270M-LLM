@@ -37,8 +37,8 @@ The model is pre-trained on the **[TinyStories](https://huggingface.co/datasets/
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/gemma3-270m-scratch.git
-    cd gemma3-270m-scratch
+    git clone https://github.com/jenvithmanduvaa/End-to-End-Pre-training-of-Gemma-3-270M-LLM.git
+    cd End-to-End-Pre-training-of-Gemma-3-270M-LLM
     ```
 2.  **Install dependencies:**
     ```bash
